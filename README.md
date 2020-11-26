@@ -1,7 +1,7 @@
-Use this tool to bruteforce websites :)
+Use this tool to bruteforce the directories of websites :)
 
 To use this tool check whether you've installed these two modules in your python library.
-      #request 
-      #termcolor 
+      => request 
+      => termcolor 
 # Run this Tool with python3
 Ex: python3 brute.py
